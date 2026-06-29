@@ -1,7 +1,0 @@
-site_name: Tài liệu dự án
-theme:
-  name: material
-  features:
-    - content.code.copy
-nav:
-  - Trang chủ: index.md
